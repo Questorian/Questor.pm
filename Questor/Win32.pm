@@ -49,6 +49,7 @@ use Win32;
 use Win32::OLE;
 use Win32::OLE::Const 'Microsoft Outlook';
 
+use Questor;
 
 #use Readonly;
 #use DateTime;
